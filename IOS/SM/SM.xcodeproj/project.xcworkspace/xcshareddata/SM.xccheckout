@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>40A69B95-E57F-4F2A-9278-6B94F6F9787C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FD30333CEF14CC0632CE2C51D2FB35454F21AE0E</key>
+		<string>https://github.com/mrblack103/pronms.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IOS/SM/SM.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FD30333CEF14CC0632CE2C51D2FB35454F21AE0E</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mrblack103/pronms.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FD30333CEF14CC0632CE2C51D2FB35454F21AE0E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD30333CEF14CC0632CE2C51D2FB35454F21AE0E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pronms</string>
+		</dict>
+	</array>
+</dict>
+</plist>
